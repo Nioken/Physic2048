@@ -1,0 +1,4 @@
+#Thu Apr 28 22:10:19 MSK 2022
+base.0=C\:\\Users\\Nioke\\Physic 2048\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
